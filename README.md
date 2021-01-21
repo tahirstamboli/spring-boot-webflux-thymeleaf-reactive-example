@@ -1,5 +1,8 @@
-Spring Boot WebFlux + Thymeleaf
+# Spring Boot WebFlux + Thymeleaf
 
-1. How to start
+## 1. How to start
+```
 $ mvn spring-boot:run
-Access http://localhost:8080
+```
+
+Access http://localhost:9191
